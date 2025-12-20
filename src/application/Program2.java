@@ -7,7 +7,7 @@ import entites.Product;
 public class Program2 {
 	public static void main(String[]args) {
 		
-		//Vectors with classes and objects
+		//arrays with classes and objects
 		
 		Scanner sc = new Scanner(System.in);
 		
